@@ -1,6 +1,6 @@
 # GCP-Kafka-Project
 
-[![](http://vaistratechnologies.com/images/services/ec.gif)](http://vaistratechnologies.com/images/services/ec.gif)  
+[![](http://vaistratechnologies.com/images/services/ec.gif)](http://vaistratechnologies.com/ecommerce.html)  
 
 Problem Statement
 
