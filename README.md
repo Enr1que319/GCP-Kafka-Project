@@ -10,6 +10,6 @@ There is a streaming source of data that is continuosly sending user activities 
 
 ### The Task
 
-The task is to capture this streaming data and
+The task is to capture this streaming data and then:
 - Get the total number of products added to cart in real time
 - Get the most visited category/sub-category and update the Data Warehouse every 15 minutes
